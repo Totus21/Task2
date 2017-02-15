@@ -1,9 +1,9 @@
-package com.natasha_mishuk.calculation.util;
+package com.natasha_mishuk.task2.util;
 
+import com.natasha_mishuk.task2.matrix.MatrixParameters;
+import com.natasha_mishuk.task2.number.Number;
+import com.natasha_mishuk.task2.number.ParameterValidator;
 
-import com.natasha_mishuk.calculation.matrix.MatrixParameters;
-import com.natasha_mishuk.calculation.number.ParameterValidator;
-import com.natasha_mishuk.calculation.number.Number;
 import java.util.Scanner;
 
 public class InputReader {

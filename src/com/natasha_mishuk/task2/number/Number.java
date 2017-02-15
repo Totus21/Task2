@@ -1,4 +1,4 @@
-package com.natasha_mishuk.calculation.number;
+package com.natasha_mishuk.task2.number;
 
 public class Number {
 

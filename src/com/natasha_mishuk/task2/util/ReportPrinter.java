@@ -1,7 +1,8 @@
-package com.natasha_mishuk.calculation.util;
+package com.natasha_mishuk.task2.util;
 
-import com.natasha_mishuk.calculation.matrix.MatrixParameters;
-import com.natasha_mishuk.calculation.number.Number;
+import com.natasha_mishuk.task2.matrix.MatrixParameters;
+import com.natasha_mishuk.task2.number.Number;
+
 public class ReportPrinter {
 
    public void PrintResults(Number localNumber)

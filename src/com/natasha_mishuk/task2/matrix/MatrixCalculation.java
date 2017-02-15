@@ -1,4 +1,4 @@
-package com.natasha_mishuk.calculation.matrix;
+package com.natasha_mishuk.task2.matrix;
 
 public class MatrixCalculation {
 

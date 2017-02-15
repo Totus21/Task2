@@ -1,12 +1,12 @@
-package com.natasha_mishuk.calculation.main;
+package com.natasha_mishuk.task2.main;
 
-import com.natasha_mishuk.calculation.util.InputReader;
-import com.natasha_mishuk.calculation.util.ReportPrinter;
-import com.natasha_mishuk.calculation.number.Number;
-import com.natasha_mishuk.calculation.number.MultiplicationResult;
-import com.natasha_mishuk.calculation.matrix.MatrixParameters;
-import com.natasha_mishuk.calculation.matrix.MatrixUtil;
-import com.natasha_mishuk.calculation.matrix.MatrixCalculation;
+import com.natasha_mishuk.task2.util.InputReader;
+import com.natasha_mishuk.task2.util.ReportPrinter;
+import com.natasha_mishuk.task2.number.Number;
+import com.natasha_mishuk.task2.number.MultiplicationResult;
+import com.natasha_mishuk.task2.matrix.MatrixParameters;
+import com.natasha_mishuk.task2.matrix.MatrixUtil;
+import com.natasha_mishuk.task2.matrix.MatrixCalculation;
 
 
 public class Runner {

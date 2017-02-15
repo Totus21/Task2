@@ -1,10 +1,10 @@
-package com.natasha_mishuk.calculation.number;
+package com.natasha_mishuk.task2.number;
 
-import java.lang.Math;
+import com.natasha_mishuk.task2.number.Number;
 
 public class MultiplicationResult {
 
-    public void calculateMultiplication(Number  localNumber )
+    public void calculateMultiplication(Number localNumber )
     {
         double tempValue;
         int intermediateResult=1;

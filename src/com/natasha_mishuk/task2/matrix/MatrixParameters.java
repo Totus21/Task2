@@ -1,4 +1,4 @@
-package com.natasha_mishuk.calculation.matrix;
+package com.natasha_mishuk.task2.matrix;
 
 /**
  * Created by Natasha_Mishuk on 2/15/2017.
