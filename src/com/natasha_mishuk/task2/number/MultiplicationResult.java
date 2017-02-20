@@ -1,21 +1,19 @@
 package com.natasha_mishuk.task2.number;
 
-import com.natasha_mishuk.task2.number.Number;
-
 public class MultiplicationResult {
 
-    public void calculateMultiplication(Number localNumber )
+    public void calculateMultiplication(UserNumber localNumber )
     {
         double tempValue;
         int intermediateResult=1;
 
-        if (localNumber.getEnteredNumber()<0){
+        if (localNumber.getEnteredUserNumber()<0){
 
-            tempValue=localNumber.getEnteredNumber()*(-1);
+            tempValue=localNumber.getEnteredUserNumber()*(-1);
 
         } else{
 
-            tempValue=localNumber.getEnteredNumber();
+            tempValue=localNumber.getEnteredUserNumber();
         }
 
 

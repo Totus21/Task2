@@ -2,11 +2,6 @@ package com.natasha_mishuk.task2.number;
 
 public class ParameterValidator {
 
-    public double makePositive(double localParameter) {
-
-        if (localParameter > 0) return localParameter;
-        else return localParameter*=-1;
-    }
 
 
     public boolean checkDigitalCapacity(double localParameter)
@@ -30,15 +25,6 @@ public class ParameterValidator {
                 return false;
 
             }
-    }
-
-    public boolean checkIfPositive(int localParameter)
-    {
-        if (localParameter>0){
-            return true;
-        }else {
-            return false;
-        }
     }
 
 
